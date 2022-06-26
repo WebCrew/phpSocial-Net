@@ -2,7 +2,7 @@
 phpSocial-Net https://phpsocial-net.com is a community with a market for free and paid plugins and themes for the social network script of the same name "phpSocial" made by Lunatio. You can find it here: 
 https://rb.gy/tgyui9
 
-![phpSocial](https://github.com/WebCrew/phpSocial-Net/main/phpsocial.jpeg)
+![phpSocial](https://github.com/WebCrew/phpSocual-Net/blob/main/phpsocial.jpeg)
 
 ### Contribute
 As a 3rd party developer you can offer free or paid plugins & themes here. You can also share tips & tricks with the community.

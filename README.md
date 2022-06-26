@@ -13,6 +13,7 @@ phpSocial's 3200+ legitimate owners can find plugins, themes, and community help
 
 ### Team Up
 Whether you're a developer or owner of phpSocial - there's no reason to be alone anymore - register today - it's free.
+As a developer as you can see already 3200+ admins baught a legal license for phpSocial so there are enough people out there looking for plugins and themes for phpSocial. Not to mention the thousands of crooks running phpSocial as warez, which we personally don't like to see - developers like Lunation should be supported by at least buying a standard license for ridiculous S19 only that's a super fair and advantageous price dont you think so.
 
 
 ## It`s easy to contribute

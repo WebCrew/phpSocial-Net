@@ -4,8 +4,10 @@ https://rb.gy/tgyui9
 
 ![phpSocial](https://github.com/WebCrew/phpSocual-Net/blob/main/phpsocial.jpeg)
 
-### Contribute
-As a 3rd party developer you can offer free or paid plugins & themes here. You can also share tips & tricks with the community.
+## Contribute
+As a 3rd party developer you can offer free or paid plugins & themes at https://phpSocial-net.com. You can also share tips & tricks with the community at our awesome forums.
+
+> I can't say it strongly enough that we would be more than happy to receive your plugin and theme submissions. phpSocial has been stable and bug-free for a good 9 years now and was constantly kept up to date - it would be just awesome if you, as the best developer community, would pay attention to this script and contribute something to its continued existence. Thank you very much for your attention. Greetings, web crew
 
 
 ### phpSocial Users
@@ -17,11 +19,11 @@ Whether you're a developer or owner of phpSocial - there's no reason to be alone
 As a developer as you can see already 3200+ admins baught a legal license for phpSocial so there are enough people out there looking for plugins and themes for phpSocial. Not to mention the thousands of crooks running phpSocial as warez, which we personally don't like to see - developers like Lunation should be supported by at least buying a standard license for ridiculous S19 only that's a super fair and advantageous price dont you think so.
 
 
-## It`s easy to contribute
+### It`s easy to contribute
 phpSocial was not only developed to offer great performance on all types of servers, including shared ones, with minimum requirements, but it offers 3rd party developers also a easy, smart and very structured way to get their job done. To start developing you can download the ready made DeveloperKit from: https://phpSocial-net.com
 
 
-### To contribute you need
+#### To contribute you need
 
 - a standard license of phpSocial if you want to develop free pluigins & themes and ** offer them on your own domain ** - S19 one time fee
 
@@ -32,7 +34,7 @@ phpSocial was not only developed to offer great performance on all types of serv
 ** Note: ** if you plan to sell plugins or themes as a paid premium product you have to buy a extended license of phpSocial. We phpSocial-Net.com only have a standard license of phpSocial, so you can offer free plugins / themes under our domain with no extra costs, but we dont have a premium extended license for phpSocial so thats up to you to buy one if you want to sell paid plugins / themes for phpSocial.
 
 
-## Start your contribution now:
+### Start your contribution now:
 
 ** Here You can find the project submission form: ** https://form.jotform.com/221664927892368
 

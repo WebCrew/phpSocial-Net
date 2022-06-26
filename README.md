@@ -7,7 +7,7 @@ https://rb.gy/tgyui9
 ## Contribute
 As a 3rd party developer you can offer free or paid plugins & themes at https://phpSocial-net.com. You can also share tips & tricks with the community at our awesome forums.
 
-> I can't say it strongly enough that we would be more than happy to receive your plugin and theme submissions. phpSocial has been stable and bug-free for a good 9 years now and was constantly kept up to date - it would be just awesome if you, as the best developer community, would pay attention to this script and contribute something to its continued existence. Thank you very much for your attention. Greetings, @WebCrew
+> I can't say it strongly enough that we would be more than happy to receive your plugin and theme submissions. phpSocial has been stable and bug-free for a good 9 years now and was constantly kept up to date - it would be just awesome if you, as the best developer community, would pay attention to this script and contribute something to its continued existence. Thank you very much for your attention. Greetings, WebCrew :nerd_face:
 
 
 ### phpSocial Users

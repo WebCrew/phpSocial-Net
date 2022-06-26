@@ -22,17 +22,17 @@ phpSocial was not only developed to offer great performance on all types of serv
 
 ### To contribute you need
 
-- a standard license of phpSocial if you want to develop free pluigins & themes - S19 one time fee
+- a standard license of phpSocial if you want to develop free pluigins & themes and ** offer them on your own domain ** - S19 one time fee
 
-Note: Because we phpSocial-Net.com already baught a standard license of phpSocial for our Domain and we invite all our free plugin / theme contributors into our team there is no need for you to buy a extra license of phpSocial. Only if you plan to offer your plugin / theme with your own installation of phpSocial on your very own domain, then you need to buy phpSocial, but as long as you offer it only with us on our domain everything is free for you.
+** Note: ** Because we phpSocial-Net.com already baught a standard license of phpSocial for our Domain and we invite all our free plugin / theme contributors into our team there is no need for you to buy a extra license of phpSocial. Only if you plan to offer your plugin / theme with your own installation of phpSocial on your very own domain, then you need to buy phpSocial, but as long as you offer it only with us on our domain everything is free for you.
 
 - a extended license of phpSocial if you want to sell your plugins or themes - S99 one time fee
 
-Note: if you plan to sell plugins or themes as a paid premium product you have to buy a extended license of phpSocial. We phpSocial-Net.com only have a standard license of phpSocial, so you can offer free plugins / themes under our domain with no extra costs, but we dont have a premium extended license for phpSocial so thats up to you to buy one if you want to sell paid plugins / themes for phpSocial.
+** Note: ** if you plan to sell plugins or themes as a paid premium product you have to buy a extended license of phpSocial. We phpSocial-Net.com only have a standard license of phpSocial, so you can offer free plugins / themes under our domain with no extra costs, but we dont have a premium extended license for phpSocial so thats up to you to buy one if you want to sell paid plugins / themes for phpSocial.
 
 
 ## Start your contribution now:
 
-Here You can find the project submission form: https://form.jotform.com/221664927892368
+** Here You can find the project submission form: ** https://form.jotform.com/221664927892368
 
-And here you can learn more about phpSocial development: https://phpsocial.com/page/documentation#developers
+** And here you can learn more about phpSocial development: ** https://phpsocial.com/page/documentation#developers
